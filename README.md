@@ -5,7 +5,7 @@ Repository dedicated to the solution proposed by Qualition to HAQS Quantum Hacka
 
 2) Quantum Kernel Estimator
 
-Qualition HAQS Team :
+## Qualition HAQS Team :
 
 1) John Gardiner
 
