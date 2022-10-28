@@ -3,11 +3,11 @@ Repository dedicated to the solution proposed by Qualition to HAQS Quantum Hacka
 
 ## Qualition HAQS Team :
 
-John Gardiner (Email : , Github username and discord ID: )
+John Gardiner (Email : johngoldengardiner@gmail.com, Github username and discord ID: John Gardiner#2496, )
 
-R K Rupesh (Email : , Github username and discord ID: )
+R K Rupesh (Email : rupeshknn@gmail.com, Github username and discord ID: rupeshknn#8939, )
 
-Avhijit Nair (Email : , Github username and discord ID: )
+Avhijit Nair (Email : avhijtnair@gmail.com, Github username and discord ID: Avhijit_Nair#5348,  )
 
 Amirali Malekani Nezhad (Email : amiralimlk07@gmail.com, Github username and dicord ID: A.C.E07#8672, https://github.com/ACE07-Sev)
 
